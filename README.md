@@ -5,8 +5,6 @@ A vue tree component. Some features: draggable, drag sortable, virtualization li
 - [Vue2](./packages/vue2)
 - [Vue3](./packages/vue3)
 
-![image](./img/demo.gif)
-
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
